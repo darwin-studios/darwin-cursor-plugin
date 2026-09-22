@@ -1,0 +1,16 @@
+{
+  "name": "darwin",
+  "version": "0.1.0",
+  "description": "Search the agentic web and coordinate durable, authorized work with Darwin.",
+  "author": {
+    "name": "Darwin Studios"
+  },
+  "homepage": "https://darwin.so",
+  "repository": "https://github.com/darwin-studios/darwin-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["darwin", "mcp", "agents", "search", "actions"],
+  "logo": "assets/logo.svg",
+  "skills": "skills/",
+  "mcpServers": "mcp.json"
+}
+
