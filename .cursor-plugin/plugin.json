@@ -1,6 +1,6 @@
 {
   "name": "darwin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Search the agentic web and coordinate durable, authorized work with Darwin.",
   "author": {
     "name": "Darwin Studios"
@@ -13,4 +13,3 @@
   "skills": "skills/",
   "mcpServers": "mcp.json"
 }
-

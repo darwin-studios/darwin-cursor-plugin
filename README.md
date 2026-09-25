@@ -22,13 +22,12 @@ Ask Cursor:
 List the Darwin tools. Search for a public PDF text extraction capability, show the evidence and terms, and stop before starting an Action.
 ```
 
-Expect seven tools: `search`, `start_action`, `get_action`, `list_actions`, `update_action`, `approve_action`, and `stop_action`.
+Expect eleven tools: `search`, `get_account`, `list_search_history`, `start_action`, `get_action`, `list_actions`, `continue_action`, `authenticate_session`, `pay_action`, `approve_action`, and `end_action`.
 
 ## Review status
 
-This public repository is the complete Cursor Marketplace submission artifact. It is **submission ready**, not submitted or approved. Marketplace submission requires explicit owner confirmation.
+This public repository is the complete Cursor Marketplace submission artifact. Marketplace publication is reviewed by Cursor; local plugin and MCP-only installation remain available independently of the listing.
 
 ## Security
 
 The plugin contains no credentials. OAuth is handled by the Darwin MCP transport. Never add tokens to `mcp.json`, skill text, repository rules, or prompts.
-
